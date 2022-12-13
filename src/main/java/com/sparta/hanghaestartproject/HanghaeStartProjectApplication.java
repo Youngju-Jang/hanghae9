@@ -10,7 +10,11 @@ public class HanghaeStartProjectApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(HanghaeStartProjectApplication.class, args);
-         System.out.println("args = " + "tsetgit");
+        System.out.println("args = " + args);
+        System.out.println("args = " + args);
+        System.out.println("args = " + args);
+        System.out.println("args = " + args);
+        System.out.println("args = " + args);
     }
 
 }
